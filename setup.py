@@ -5,6 +5,7 @@ requires = [
 	"requests",
 	"telepot",
 	"flask",
+	"google-search-results",
 ]
 
 setup(name = "google-search-telegram-bot",
